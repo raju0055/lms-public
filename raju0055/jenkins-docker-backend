@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the code from Git
-                git 'https://github.com/mubeen507/lms-public.git'
+                git 'https://github.com/raju0055/lms-public.git'
             }
         }
 
